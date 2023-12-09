@@ -4,7 +4,6 @@ import { Draggable, Droppable } from 'react-beautiful-dnd'
 import TodoCard from './TodoCard'
 import { useBoardStore } from '@/store/BoardStore'
 import { useModalStore } from '@/store/ModalStore'
-import { colorModes } from '@/themes'
 import { useThemeStore } from '@/store/ThemeStore'
 
 type Props = {

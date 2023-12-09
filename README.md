@@ -3,6 +3,43 @@
 </p>
 <p align="center" >Next.JS - React-based Web Applications with Server Side Rendering & Static Website Generation.</p>
 
+## Trello Clone using Nextjs + TailwindCSS + Zustand + Appwrite
+
+### Use Cases
+
+```
+    <!-- RELEASE 1.0.0 -->
+    - Add Tasks as ToDo / InProgress / Done.
+    - Add N Number of Tasks.
+    - Append Image to the Tasks created.
+    - Delete Tasks.
+    - Switchable Light & Dark Mode Themes.
+    - Drag & Drop Tasks to / from - Todo / InProgress / Done.
+    <!-- RELEASE 2.0.0 -->
+    - Edit Created Tasks.
+    - Add Date for the Tasks.
+    - Add Priority for the Tasks.
+    - Authentication
+```
+
+### Packages Installed
+
+```
+    - tailwind
+        - Styling UI Components
+    - zustand
+        - Global State Management Service
+    - appwrite
+        - DB to Store Tasks
+    - @heroicons/react
+        - Icons Pack
+    - @headlessui/react
+        - Modal Component
+    - react-beautiful-dnd
+        - Drag & Drop Component
+
+```
+
 ## NextJS Getting Started
 
 First, run the development server:

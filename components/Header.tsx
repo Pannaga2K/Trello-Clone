@@ -6,7 +6,6 @@ import { MagnifyingGlassIcon, UserCircleIcon, SunIcon, MoonIcon } from "@heroico
 import Avatar from 'react-avatar';
 import { useBoardStore } from '@/store/BoardStore';
 import fetchSuggestion from '@/lib/fetchSuggestion';
-import { colorModes } from '@/themes';
 import { useThemeStore } from '@/store/ThemeStore';
 import { twMerge } from 'tailwind-merge'
 
