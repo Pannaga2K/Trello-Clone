@@ -1,7 +1,7 @@
 
 
 <p align="center" >
-[![Screenshot](./public/nextjs-icon.png)](https://nextjs.org/)
+[![](./public/nextjs-icon.png)](https://nextjs.org/)
     <p>Next.JS - React-based Web Applications with Server Side Rendering & Static Website Generation.</p>
 </p>
 
