@@ -1,7 +1,7 @@
 
 
 <p align="center" >
-[![](https://static-00.iconduck.com/assets.00/nextjs-icon-512x309-yynfidez.png )](https://nextjs.org/)
+[![NextJSLogo](https://static-00.iconduck.com/assets.00/nextjs-icon-512x309-yynfidez.png )](https://nextjs.org/)
 </p>
 <p align="center" >Next.JS - React-based Web Applications with Server Side Rendering & Static Website Generation.</p>
 
