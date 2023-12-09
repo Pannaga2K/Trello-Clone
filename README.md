@@ -1,7 +1,7 @@
 
 
 <p align="center" >
-    [<img src="./public/nextjs-icon.png" width="350" title="hover text">](https://nextjs.org/)
+[![](https://static-00.iconduck.com/assets.00/nextjs-icon-512x309-yynfidez.png)](https://nextjs.org/)
     <p>Next.JS - React-based Web Applications with Server Side Rendering & Static Website Generation.</p>
 </p>
 
