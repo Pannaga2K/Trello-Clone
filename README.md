@@ -1,7 +1,11 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Getting Started
 
+<p align="center" >
+[![plot](./public/nextjs-icon.png)](https://nextjs.org/)
+    <p>Next.JS - React-based Web Applications with Server Side Rendering & Static Website Generation.</p>
+</p>
+
+## NextJS Getting Started
 First, run the development server:
 
 ```bash
