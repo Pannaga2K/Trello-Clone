@@ -1,7 +1,7 @@
 
 
 <p align="center" >
-    [<img src="nextjs-icon.png" width="350" title="hover text">](https://nextjs.org/)
+    [<img src="./public/nextjs-icon.png" width="350" title="hover text">](https://nextjs.org/)
     <p>Next.JS - React-based Web Applications with Server Side Rendering & Static Website Generation.</p>
 </p>
 
