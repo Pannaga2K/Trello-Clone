@@ -1,4 +1,3 @@
-import { colorModes } from "@/themes";
 import {create} from "zustand";
 
 interface ThemeState {
