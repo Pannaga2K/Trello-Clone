@@ -1,0 +1,11 @@
+-------------------- TODO FUNCTIONALITY --------------------
+
+- react-beautiful-dnd
+
+    - Board
+        = DragDropContext
+            = Droppable
+    - Column
+        = Draggable
+            = Droppable
+                = Draggable
