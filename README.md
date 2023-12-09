@@ -1,11 +1,10 @@
-
-
 <p align="center" >
-[![NextJSLogo](https://static-00.iconduck.com/assets.00/nextjs-icon-512x309-yynfidez.png )](https://nextjs.org/)
+    <a href="https://nextjs.org/" target="blank"><img src="https://static-00.iconduck.com/assets.00/nextjs-icon-512x309-yynfidez.png" width="320" alt="Next Logo" /></a>
 </p>
 <p align="center" >Next.JS - React-based Web Applications with Server Side Rendering & Static Website Generation.</p>
 
 ## NextJS Getting Started
+
 First, run the development server:
 
 ```bash
